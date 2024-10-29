@@ -38,7 +38,8 @@
 ---
 
 ### 🏆 LeetCode Stats
-![Sumit's LeetCode Stats](https://leetcode-stats.vercel.app/?username=iamsumitt&theme=dark)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iamsumitt?theme=dark&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/iamsumitt/)
+
 
 ---
 
