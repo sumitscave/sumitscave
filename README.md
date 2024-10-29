@@ -27,6 +27,9 @@
 
 ---
 
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-Blog-blue?style=flat&logo=hashnode)](https://hashnode.com/@SumitMukharjii)
+
+
 ### 🌟 GitHub Stats
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitscave&show_icons=true&theme=tokyonight)
 
