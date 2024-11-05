@@ -40,12 +40,17 @@
 
 ---
 
+### 📊 Top Languages and Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitscave&layout=compact&theme=tokyonight)
+> **Note:** This section shows the most frequently used programming languages in my repositories and gives an idea of my coding preferences.
+
+---
+
 ### 🏆 Competitive Programming Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/iamsumitt?theme=dark&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/iamsumitt/)
 
 [![CodeChef Profile](https://cp-logo.vercel.app/codechef/drstrange16)](https://www.codechef.com/users/drstrange16)
-
 
 ---
 
@@ -57,7 +62,7 @@
 ---
 
 ### 💼 Experience
-- **Student Ambassador at AngelHack**  
+- **Student Ambassador at AngelHack**  
   Conducted hackathons and promoted cloud-native tools for developers.
 
 ### 🌐 My Projects
@@ -72,4 +77,3 @@
 ![GitHub](https://img.shields.io/github/followers/sumitscave?label=Follow&style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Mukharjee-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumitxmukharjee/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Sumit%20Mukharjee-orange?style=flat&logo=leetcode)](https://leetcode.com/u/iamsumitt/)
- in this markdown in github stats also add something which shows langiages and programming tools i use in my repis
