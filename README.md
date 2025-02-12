@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I enjoy **exploring new technologies** and **participating in hackathons**—I was a Student Ambassador for AngelHack!
 
 ### 📫 How to reach me:
-- **Email**: [sumitxxmukharjee@hotmail.com](mailto:sumitxxmukharjee@hotmail.com)
+- **Email**: [sumitxxmukharjee@gmail.com](mailto:sumitxxmukharjee@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sumitxmukharjee](https://www.linkedin.com/in/sumitxmukharjee/)
 - **LeetCode**: [leetcode.com/u/iamsumitt/](https://leetcode.com/u/iamsumitt/)
 
@@ -35,8 +35,7 @@
 
 ---
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitscave)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=sumitscave&theme=tokyonight&hide_border=true&border_radius=6.3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
 
 ### 📊 Top Languages and Tools
